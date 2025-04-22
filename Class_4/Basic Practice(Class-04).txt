@@ -1,0 +1,36 @@
+### **Tuples:**
+1. Create a tuple with 5 elements and print the second element.
+2. Create a tuple of numbers and find the maximum and minimum values in the tuple.
+3. Create a tuple with mixed data types (int, string, float) and print each element using a loop.
+4. Try to modify an element in a tuple and see what happens!
+5. Create a tuple with 3 names and concatenate it with another tuple of 3 more names.
+6. Find the index of a particular element in a tuple.
+7. Create a tuple with repeated values and count how many times a specific element appears.
+8. Create a tuple and access its last element.
+9. Create a tuple of 3 numbers and use a loop to calculate the sum of the elements.
+10. Convert a list to a tuple and print it.
+
+### **Sets:**
+1. Create a set with 5 numbers and print it.
+2. Add a new element to a set and print the updated set.
+3. Remove an element from a set using `remove()` and print the set.
+4. Use the `pop()` method to remove and print a random element from a set.
+5. Create a set with duplicate elements and print it to show that duplicates are removed.
+6. Check if a specific number is present in a set.
+7. Perform a union of two sets and print the result.
+8. Find the intersection of two sets and print the result.
+9. Create two sets and find the difference between them.
+10. Iterate over a set and print each element.
+
+### **Dictionaries:**
+1. Create a dictionary with 3 key-value pairs and print it.
+2. Access a value from a dictionary using its key.
+3. Add a new key-value pair to an existing dictionary and print the dictionary.
+4. Update the value of an existing key and print the updated dictionary.
+5. Remove a key-value pair from a dictionary using `del` and print the dictionary.
+6. Use the `pop()` method to remove and return a value from a dictionary.
+7. Get all keys from a dictionary and print them.
+8. Get all values from a dictionary and print them.
+9. Create a dictionary with names and ages, and find the average age.
+10. Check if a specific key exists in the dictionary and print the result.
+

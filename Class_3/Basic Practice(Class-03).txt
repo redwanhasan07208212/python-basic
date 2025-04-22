@@ -1,0 +1,12 @@
+Basic List's Problems :
+
+1. Create a list of 5 numbers and print the second element.
+2. Create a list with 3 different fruits and add one more fruit to the list.
+3. Remove the first item from a list of 4 colors.
+4. Find the length of a list that contains 7 items.
+5. Access and print the last element of a list containing 6 elements.
+6. Create a list of 5 numbers and find the sum of all the numbers in the list.
+7. Create a list of 3 names and change the second name to a new name.
+8. Check if the number 10 is in a list of numbers from 1 to 5.
+9. Create a list with 3 animals and print each animal using a loop.
+10. Create a list of 5 numbers and find the largest number in the list.

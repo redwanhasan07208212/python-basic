@@ -1,0 +1,18 @@
+### **Function Questions:**
+
+1. Write a function that takes two numbers and returns their sum.  
+2. Write a function that prints "Hello, World!" when called.  
+3. Write a function that takes a name and prints "Hello, `<name>`!".  
+4. Write a function that returns the square of a number.  
+5. Write a function that checks if a number is even or odd.  
+
+###  **Lambda Function Questions:**
+
+6. Use a lambda function to add 10 to a given number.  
+7. Use `lambda` with `map()` to square all numbers in a list.  
+8. Use `lambda` with `filter()` to get only even numbers from a list.  
+9. Use `lambda` with `sorted()` to sort a list of tuples by the second value.  
+10. Use `lambda` to multiply two numbers.
+
+
+

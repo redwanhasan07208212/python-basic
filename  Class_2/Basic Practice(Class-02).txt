@@ -1,0 +1,46 @@
+**Python Practice Problems (Modules, Loops, Control Statements)**  
+
+1. **Importing Modules**  
+   Write a program that imports the `math` module and calculates:  
+   - The square root of 144  
+   - The sine of 90 degrees  
+   - The greatest common divisor (GCD) of 36 and 60  
+
+2. **For Loop with Range**  
+   Write a program that prints numbers from 1 to 20, but only the even numbers.  
+
+3. **While Loop with Condition**  
+   Write a program that keeps asking the user to enter a number until they enter a number that is a multiple of 7.  
+
+4. **Nested Loop for a Pattern**  
+   Print the following pattern using nested loops:  
+   ```
+   1
+   1 2
+   1 2 3
+   1 2 3 4
+   1 2 3 4 5
+   ```
+
+5. **Break & Continue in Loops**  
+   Write a program that prints numbers from 1 to 15, but:  
+   - Skips 7 using `continue`  
+   - Stops the loop completely at 12 using `break`  
+
+6. **Multiplication Table Using Nested Loop**  
+   Write a program that prints the multiplication table from 1 to 5 using nested loops.  
+
+7. **While Loop for Summation**  
+   Write a program that keeps adding user-inputted numbers until the sum reaches or exceeds 100, then prints the total sum.  
+
+8. **Loop Through a List**  
+   Given the list `[3, 6, 9, 12, 15, 18, 21]`, write a program to:  
+   - Print each number  
+   - Stop the loop if a number greater than 15 is encountered  
+
+9. **Finding the Largest Number in a List Using a Loop**  
+   Given a list of numbers `[45, 12, 78, 34, 89, 23]`, write a program that finds and prints the largest number using a loop.  
+
+10. **Checking Prime Numbers Using a Loop**  
+    Write a program that asks the user for a number and checks whether it is prime or not using a loop.  
+
