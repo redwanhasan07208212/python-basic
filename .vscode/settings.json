@@ -2,6 +2,7 @@
   "cSpell.words": [
     "annot",
     "autopct",
+    "catplot",
     "cmap",
     "facecolor",
     "figsize",
@@ -23,6 +24,7 @@
     "relplot",
     "Rohan",
     "scatterplot",
+    "stripplot",
     "supty",
     "whitegrid",
     "xlabel",
