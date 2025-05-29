@@ -26,6 +26,7 @@
     "scatterplot",
     "stripplot",
     "supty",
+    "violinplot",
     "whitegrid",
     "xlabel",
     "xticks",
